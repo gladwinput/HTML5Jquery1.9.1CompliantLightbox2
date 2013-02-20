@@ -8,7 +8,7 @@ This script itself (Originally the Lightbox2 script by Lokesh Dhakar) was fantas
 
 Licensed under the Creative Commons Attribution 2.5 License - http://creativecommons.org/licenses/by/2.5/
 - free for use in both personal and commercial projects
-- attribution requires leaving author name, author link, and the license info intact
+- attribution requires leaving author name, author link, and the license info intact.
 
 HOW TO USE:
 
@@ -17,7 +17,7 @@ First - Add the img, css and js files. And check that you have changed the /img/
 Second -  make sure you have jquery added into your page in <head> like this (I use googleapis):
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 
-(You can use 1.9.1 - as there was a fault when using 1.9.1 with the original script where the images didn't appear. The original .)
+(You can use 1.9.1 - as there was a fault when using 1.9.1 with the original script where the images didn't appear withhe original script.)
 
 Third - Call the js file in through your header like this:
 <script src="js/lightbox.js"></script>
